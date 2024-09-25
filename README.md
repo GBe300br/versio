@@ -1,1 +1,2 @@
 # versio
+Este código HTML cria uma página web dedicada ao tema "O Incrível Mundo das Câmeras". A página possui um fundo escuro com texto em amarelo para destaque e utiliza diferentes títulos (h1, h2, h3) para organizar o conteúdo. Há duas imagens incluídas, que retratam câmeras, e são alinhadas à esquerda do texto. A página é dividida em seções, incluindo uma breve explicação sobre câmeras fotográficas e uma lista das melhores câmeras para fotos e vídeos. O layout é estilizado com CSS embutido, controlando cores, margens, fontes e a disposição das imagens.
